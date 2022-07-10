@@ -1,8 +1,8 @@
 {
-  "name": "jc-bot",
+  "name": "jcystem-bot",
   "description": "Subscribete a JCystem - Bot (≧▽≦)",
   "repository": "https://github.com/jcystem/jcystem-bot",
-  "logo": "https://raw.githubusercontent.com/jcystem/jcystem-bot/Menu2.jpg",
+  "logo": "https://raw.githubusercontent.com/jcystem/jcystem-bot/main/Menu2.jpg",
   "keywords": ["java", "bot", "whatsapp-bot", "whatsapp-automation"],
   "buildpacks": [
   {
