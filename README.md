@@ -6,7 +6,7 @@
 <P align="center">
 
 
-<h1 align="center"><b>JCystem Bot Beta v0.1</b></h1>
+<h1 align="center"><b>JCystem Bot v1.0</b></h1>
 <h4 align="center">Bot de codigo abierto para la administración de grupos de WhatsApp.</h4>
 
 
