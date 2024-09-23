@@ -12,7 +12,7 @@
     "scripts": {
         "start": "node index.js",
         "cli": "node . --optimize_for_size --max_old_space_size=460 index.js",
-        "db": "node . --autocleartmp --db 'mongodb+srv://jcystem:<password>@jcystem.o39vesr.mongodb.net/?retryWrites=true&w=majority'"
+        "db": "node . --autocleartmp --db 'mongodb+srv://jcystem.o39vesr.mongodb.net/?authSource=%24external&authMechanism=MONGODB-X509&retryWrites=true&w=majority'"
     },
     "homepage": "https://github.com/jcystem",
     "author": {
