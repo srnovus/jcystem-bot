@@ -18,7 +18,7 @@ WhatsApp libre
 ```
 
 ### `—◉ 💰 DONAR 💰`
-- AGRADECE CON UNA DONACION VOLUNTARIA [Aqui](https://www.paypal.me/srnovus/)
+- AGRADECE CON UNA DONACION VOLUNTARIA [Aqui](https://patreon.com/fedired/)
 
 
 ### `—◉ 📝 NOTAS 📝`
